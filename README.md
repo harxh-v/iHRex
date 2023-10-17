@@ -1,4 +1,7 @@
-<h2>Welcome! <a href="https://github.com/iHRex"> <img src="https://visitor-badge.laobi.icu/badge?page_id=ihrex.visitor-badge&left_color=red&right_color=green" alt="Visitors"></a></h2><img alt="Octocat" align="right" width="100" height="100" src="https://raw.githubusercontent.com/iHRex/iHRex/main/octocat-ihrex.png" >
+<h2>Welcome! <a href="https://github.com/iHRex"> <img src="https://visitor-badge.laobi.icu/badge?page_id=ihrex.visitor-badge&left_color=red&right_color=green" alt="Visitors"></a></h2>
+<a href="#">
+  <img alt="Octocat" align="right" width="100" height="100" src="https://raw.githubusercontent.com/iHRex/iHRex/main/octocat-ihrex.png"/>
+</a>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=DD58C1&multiline=true&lines=Good+to+see+you!+❤️;Hope+you+are+having+a+good+day...!)](https://github.com/DenverCoder1/readme-typing-svg)
