@@ -1,4 +1,4 @@
-<h2>Welcome! <a href="https://github.com/iHRex"> <img src="https://visitor-badge.laobi.icu/badge?page_id=ihrex.visitor-badge&left_color=red&right_color=green" alt="Visitors"></a></h2>
+<h2>Welcome! <a href="https://github.com/iHRex"> <img src="https://visitor-badge.laobi.icu/badge?page_id=ihrex.visitor-badge&left_color=red&right_color=green" alt="Visitors"></a></h2><img align="right" width="100" height="100" src="https://raw.githubusercontent.com/iHRex/iHRex/main/octocat-ihrex.png">
 
 
 
