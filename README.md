@@ -65,15 +65,17 @@ I'm Harsh, a second year B-Tech student at the Galgotias University, India.
 
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihrex&hide=jupyter%20notebook,html&langs_count=10&theme=react&layout=compact&exclude_repo=nusmods,ihrex.github.io&title_color=dd58c1"/>
+<a href="https://github.com/ihrex/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihrex&hide=jupyter%20notebook,html&langs_count=10&theme=react&layout=compact&exclude_repo=nusmods,ihrex.github.io&title_color=dd58c1"/>
 
 </details>
 <details>
   <summary>
     <b>Contribution Graph</b>
   </summary>
-  
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ihrex&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  <a href="https://github.com/ihrex/">
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ihrex&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true"/>
+    
 </details>
 
 
