@@ -16,7 +16,7 @@ I'm Harsh, a second year B-Tech student at the Galgotias University, India.
 <h3>Reach me out 👍</h3>
 <p>
 <a href="https://calendly.com/harsh-v/one-on-one-call">
-  <img alt="Calendly" width="100" height="40" src="https://mms.businesswire.com/media/20220302005343/en/1376587/22/Calendly_Primary_Logo_2_%282%29.jpg"/>
+  <img alt="Calendly" width="100" height="30" src="https://mms.businesswire.com/media/20220302005343/en/1376587/22/Calendly_Primary_Logo_2_%282%29.jpg"/>
 </a>
 <a href="https://www.linkedin.com/in/ihrex/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
