@@ -4,14 +4,14 @@
 </a>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=DD58C1&multiline=true&lines=Good+to+see+you!+❤️;Hope+you+are+having+a+good+day...!)]
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=DD58C1&multiline=true&lines=Good+to+see+you!+❤️;Hope+you+are+having+a+good+day...!)
 
 
 I'm Harsh, a second year B-Tech student at the Galgotias University, India.
 <br>
 <br>
 <br>
-[![An image of @ihrex's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ihrex)]
+![An image of @ihrex's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ihrex)
 
 <h3>Reach me out 👍</h3>
 <p>
