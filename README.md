@@ -4,7 +4,7 @@
 </a>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=DD58C1&multiline=true&lines=Good+to+see+you!+❤️;Hope+you+are+having+a+good+day...!)]
+[Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=DD58C1&multiline=true&lines=Good+to+see+you!+❤️;Hope+you+are+having+a+good+day...!)]
 
 
 I'm Harsh, a second year B-Tech student at the Galgotias University, India.
