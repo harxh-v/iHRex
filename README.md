@@ -24,18 +24,12 @@ I'm Harsh, a second year B-Tech student at the Galgotias University, India.
 <a href="mailto:harsh.v@outlook.in">
   <img alt="Mail" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
 </a>
-<a href="https://auth.geeksforgeeks.org/user/ihr5/">
-  <img alt="Medium" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c"/>
-</a>
-<a href="https://leetcode.com/iHRex/">
-  <img alt="Kaggle" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>
-</a>
 <a href="https://ihrex.medium.com/">
-  <img alt="HackerRank" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
 </a>
 <a href="https://www.buymeacoffee.com/ihrex">
-  <img alt="HackerRank" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
+  <img alt="BuyMeACoffee" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
 </a>
 
 </p>
